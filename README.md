@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sigsev-Dev
 - 👀 I’m a sophomore at IIIT Ranchi with an expertise in Algorithms and problem solving
-- 🌱 I’m currently learning Algorithms, Machine learning & full stack development
+- 🌱 My fields of interest are Algorithms, Machine learning & full stack development
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 email: devpant.btech.cs19@iiitranchi.ac.in | codechef: fawkes01 | codeforces : phoenix_911
 
