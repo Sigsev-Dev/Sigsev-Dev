@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 email: devpant.btech.cs19@iiitranchi.ac.in | codechef: fawkes01 | codeforces : phoenix_911
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigsev-Dev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 <!---
