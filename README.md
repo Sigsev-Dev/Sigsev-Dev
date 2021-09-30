@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigsev-Dev&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sigsev-Dev&theme=algolia&row=2&column=4&align=centre)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sigsev-Dev&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
