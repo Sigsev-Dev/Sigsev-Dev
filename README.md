@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 email: devpant.btech.cs19@iiitranchi.ac.in | codechef: fawkes01 | codeforces : phoenix_911
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigsev-Dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!---
 Sigsev-Dev/Sigsev-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
