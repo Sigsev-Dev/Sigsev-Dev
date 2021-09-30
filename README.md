@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Sigsev-Dev
+![](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
+
+- 👋 Hi, I’m @Sigsev-Dev                                                                                                
 - 👀 I’m a sophomore at IIIT Ranchi with an expertise in Algorithms and problem solving
 - 🌱 My fields of interest are Algorithms, Machine learning & full stack development
 - 💞️ I’m looking to collaborate on open source projects 
