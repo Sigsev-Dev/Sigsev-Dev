@@ -8,7 +8,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigsev-Dev&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)
 
-![Visitor Count](https://profile-counter.glitch.me/{Sigsev-Dev}/count.svg)
 
 <!---
 Sigsev-Dev/Sigsev-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
