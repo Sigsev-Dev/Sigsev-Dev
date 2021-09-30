@@ -5,7 +5,7 @@
 - 📫 email: devpant.btech.cs19@iiitranchi.ac.in | codechef: fawkes01 | codeforces : phoenix_911
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigsev-Dev&show_icons=true&theme=radical&layout=compact) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
 
 
