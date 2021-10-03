@@ -10,9 +10,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigsev-Dev&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)
 
 
+
 ## 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Sigsev-Dev&theme=algolia&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## 🧰 Languages and Tools:
