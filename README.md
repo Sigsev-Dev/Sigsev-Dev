@@ -1,7 +1,7 @@
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 - 👋 Hi, I’m @Sigsev-Dev                                                                                                
-- 👀 I’m a sophomore at IIIT Ranchi with an expertise in Algorithms and problem solving
+- 👀 I’m a pre-final year student of CSE at IIIT Ranchi with an expertise in Algorithms and problem solving
 - 🌱 My fields of interest are Algorithms, Machine learning & full stack development
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 email: devpant.btech.cs19@iiitranchi.ac.in | codechef: fawkes01 | codeforces : phoenix_911
