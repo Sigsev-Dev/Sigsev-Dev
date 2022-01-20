@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Sigsev-Dev                                                                                                
 - 👀 I’m a pre-final year student of CSE at IIIT Ranchi with an expertise in Algorithms and problem solving
-- 🌱 My fields of interest are Algorithms, Machine learning & full stack development
+- 🌱 My fields of interest are Algorithms, Machine learning, Game dev. & full stack development
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 email: devpant.btech.cs19@iiitranchi.ac.in | codechef: fawkes01 | codeforces : phoenix_911
   
