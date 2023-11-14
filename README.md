@@ -1,10 +1,10 @@
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 - 👋 Hi, I’m @Sigsev-Dev                                                                                                
-- 👀 I’m a pre-final year student of CSE at IIIT Ranchi with an expertise in Algorithms and problem solving
-- 🌱 My fields of interest are Algorithms, Machine learning, Game dev. & full stack development
+- 👀 I’m a Masters student at New York University with an expertise in Algorithms and problem solving
+- 🌱 My fields of interest are Algorithms, Deep learning, Computer Graphics & scientific visualization
 - 💞️ I’m looking to collaborate on open source projects 
-- 📫 email: devpant.btech.cs19@iiitranchi.ac.in | codechef: fawkes01 | codeforces : phoenix_911
+- 📫 email: dp3887@nyu.edu | codechef: fawkes01 | codeforces : phoenix_911
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sigsev-Dev&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8)
